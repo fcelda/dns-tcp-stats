@@ -1,6 +1,6 @@
 # tcp-dns-stats
 
-No state-of-the-art Python. Just bunch of scripts to get elementary information about DNS over TCP queries from _pcap_ packet captures.
+No state-of-the-art Python. Just bunch of scripts to get elementary information about DNS over TCP queries from _pcap_ packet captures. Works well with [DNS-OARC DITL](https://www.dns-oarc.net/oarc/data/ditl) data.
 
 ## Dependencies
 
